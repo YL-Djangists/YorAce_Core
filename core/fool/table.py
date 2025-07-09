@@ -1,7 +1,5 @@
-from dataclasses import dataclass
-from typing import List, Optional, Tuple
-from enum import Enum
-from random import shuffle, choice
+from typing import Optional
+from player import Player
 
 
 class Table:
